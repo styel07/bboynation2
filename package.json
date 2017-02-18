@@ -1,0 +1,33 @@
+{
+  "name": "bboynation2",
+  "version": "1.0.0",
+  "description": "Bboynation 2 Watch our videos on Youtube.com/bboynation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/styel07/bboynation2.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "eL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/styel07/bboynation2/issues"
+  },
+  "homepage": "https://github.com/styel07/bboynation2#readme"
+}
